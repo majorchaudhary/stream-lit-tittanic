@@ -1,1 +1,1 @@
-# stream-lit-tittanic
+# Streamlit-Titanic_Survival
